@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "user_name": "solut@test.com",
+      "email": "adi@gimali.com",
+      "password": "123456",
+      "location": "Tokyo",
+      "id": "55fbf230-e8b2-4dd7-bd18-d656f00f3ac4"
+    },
+    {
+      "id": "12dfdb60-1214-4561-8116-2c7003b4566f",
+      "user_name": "solut@test.com",
+      "email": "asasc@adswd.com",
+      "password": "12345sca",
+      "location": "Paris"
+    }
+  ]
+}
